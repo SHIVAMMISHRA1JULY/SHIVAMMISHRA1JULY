@@ -2,7 +2,7 @@
 
 ![GitHub Banner](./An_anime-style_GitHub_profile_banner_for_a_develop.png)
 
-![Frontend Developer GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Frontend Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## 🚀 About Me
 
@@ -36,7 +36,6 @@ I'm a passionate **Frontend Developer** with a love for crafting beautiful, resp
 ![Connect GIF](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
 
 - [LinkedIn](https://www.linkedin.com/in/shivam-mishra-723205254/)
-- [Portfolio](https://yourportfolio.com)
 
 ---
 
@@ -44,5 +43,4 @@ Let’s build stunning interfaces and bring ideas to life! 🎨🚀
 
 ---
 
-
-
+*Generated with ❤️ by ChatGPT*
