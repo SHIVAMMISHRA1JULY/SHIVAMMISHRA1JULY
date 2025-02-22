@@ -1,6 +1,6 @@
 # Hi there, I'm Shivam Mishra 👋
 
-![GitHub Banner](./An_anime-style_GitHub_profile_banner_for_a_develop.png)
+
 
 ![Frontend Developer GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
@@ -19,7 +19,7 @@ I'm a passionate **Frontend Developer** with a love for crafting beautiful, resp
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Styled-Components
-- **Tools:** Git, VS Code, Figma, Storybook, Chrome DevTools
+- **Tools:** Git, VS Code,  Chrome DevTools
 
 ## 🧑‍💻 Working On
 
@@ -44,5 +44,5 @@ Let’s build stunning interfaces and bring ideas to life! 🎨🚀
 
 ---
 
-*Generated with ❤️ by ChatGPT*
+
 
