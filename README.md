@@ -1,6 +1,6 @@
 # Hi there, I'm Shivam Mishra 👋
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology=frontend)
+![GitHub Banner](./An_anime-style_GitHub_profile_banner_for_a_develop.png)
 
 ![Frontend Developer GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
@@ -8,10 +8,10 @@
 
 I'm a passionate **Frontend Developer** with a love for crafting beautiful, responsive, and user-friendly web interfaces. I enjoy solving design challenges, learning new frameworks, and building engaging experiences for users.
 
-- 🔭 I’m currently working on: **e-commerce(https://github.com/yourusername/yourproject)**
+- 🔭 I’m currently working on: **[e-commerce](https://github.com/yourusername/yourproject)**
 - 🌱 I’m currently learning: **React, Next.js, and Framer Motion**
 - 💬 Ask me about: **UI/UX Design, CSS Tricks, and Web Animations**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **shivammishra1july@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -20,6 +20,10 @@ I'm a passionate **Frontend Developer** with a love for crafting beautiful, resp
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Styled-Components
 - **Tools:** Git, VS Code, Figma, Storybook, Chrome DevTools
+
+## 🧑‍💻 Working On
+
+![Working GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ## 📊 GitHub Stats
 
@@ -31,8 +35,7 @@ I'm a passionate **Frontend Developer** with a love for crafting beautiful, resp
 
 ![Connect GIF](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/shivam-mishra-723205254/)
 - [Portfolio](https://yourportfolio.com)
 
 ---
@@ -41,5 +44,5 @@ Let’s build stunning interfaces and bring ideas to life! 🎨🚀
 
 ---
 
-*Generated with ❤️ by ChatGPT*
+
 
